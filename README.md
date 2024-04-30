@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=tmasud&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/tmasud/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=tmasud&hide=contribs&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/tmasud/)
 
 [![github-chart](https://github-chart.vercel.app/api?user=tmasud)](https://github.com/rokumura7/github-chart)
