@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![typograssy](https://typograssy.deno.dev/api?text=tmasud%20Profile)](https://github.com/kawarimidoll/typograssy)
+
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=tmasud&hide=contribs&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/tmasud/)
 
 [![github-chart](https://github-chart.vercel.app/api?user=tmasud)](https://github.com/rokumura7/github-chart)
