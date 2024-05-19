@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![typograssy](https://typograssy.deno.dev/api?text=Masu%20Profile%20&l0=b0e0e6&l1=87cefa&l2=4169e1&l3=00008b&l4=191970)](https://github.com/kawarimidoll/typograssy)
+[![typograssy](https://typograssy.deno.dev/api?text=Masu%20Profile%20&l0=f5f5f5&l1=8fbc8f&l2=556b2f&l3=008b8b&l4=2f4f4f)](https://github.com/kawarimidoll/typograssy)
 
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=tmasud&hide=contribs&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/tmasud/)
 
